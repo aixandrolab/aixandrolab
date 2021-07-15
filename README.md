@@ -2,10 +2,8 @@
 
 ***
 
-My name is ___Aleksandr (Smart Legion).___
+My name is ___Aleksandr (Saneks King).___
 
-___Python programmer.___
+___I am a novice python programmer.___
 
 ***
-
-[smartlegion](https://github.com/smartlegion/)
