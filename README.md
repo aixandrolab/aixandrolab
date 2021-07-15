@@ -1,11 +1,3 @@
-# saneksking.github.io
-***
-
-[![Saneks King](https://img.shields.io/badge/Github-saneksking-blue)](https://github.com/saneksking)
-[![Saneks King](https://img.shields.io/badge/Site-https://saneksking.github.io-blue)](https://saneksking.github.io)
-
-***
-
 ### Hi there 👋 :)
 
 ***
@@ -26,3 +18,5 @@ My sponsor: [SMART LEGION](https://github.com/smartlegion/).
 
 ***
 
+[![Saneks King](https://img.shields.io/badge/Github-@saneksking-blue)](https://github.com/saneksking)
+[![Saneks King](https://img.shields.io/badge/Site-https://saneksking.github.io-blue)](https://saneksking.github.io)
