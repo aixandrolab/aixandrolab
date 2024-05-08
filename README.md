@@ -20,3 +20,7 @@ My sponsor: [SMART LEGION LAB](https://github.com/smartlegionlab/).
 
 [![Saneks King](https://img.shields.io/badge/Github-@saneksking-blue)](https://github.com/saneksking)
 [![Saneks King](https://img.shields.io/badge/Site-https://saneksking.github.io-blue)](https://saneksking.github.io)
+
+<hr>
+
+<img src='data/images/github-snake.svg' alt='Github-snake'>
