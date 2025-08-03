@@ -8,7 +8,7 @@ My name is ___Aleksandr (Saneks King).___
 
 ***
 
-___I am a novice python programmer.___
+___I am a python programmer.___
 
 My sponsor: [SMART LEGION LAB](https://github.com/smartlegionlab/).
 
