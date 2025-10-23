@@ -10,7 +10,7 @@ I specialize in building robust and scalable web applications from the ground up
 
 *   **Backend:** Python, Django, Django REST Framework, PostgreSQL, SQLite
 *   **Frontend:** HTML, CSS, JavaScript (ES6+), Bootstrap
-*   **Tools & DevOps:** Git, GitHub, PyPI (publishing packages), Linux, Nginx, Gunicorn
+*   **Tools & DevOps:** Git, GitHub, PyPI (publishing packages), Linux
 *   **Architecture:** REST APIs, MVC, Client-Server Architecture
 
 ---
