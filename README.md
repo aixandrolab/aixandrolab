@@ -1,26 +1,40 @@
-### Hi there 👋 :)
+# 👋 Hello, I'm Alexander
 
-***
+**Full-Stack Python/Django Developer**
 
-My name is ___Aleksandr (Saneks King).___
+I specialize in building robust and scalable web applications from the ground up. My expertise spans both back-end and front-end development, with a strong focus on the Django framework.
 
-![Photo](https://github.com/saneksking/saneksking/raw/master/data/images/saneks.jpg)
+---
 
-***
+### 🛠️ Technologies & Skills
 
-___I am a python programmer.___
+*   **Backend:** Python, Django, Django REST Framework, PostgreSQL, SQLite
+*   **Frontend:** HTML, CSS, JavaScript (ES6+), Bootstrap
+*   **Tools & DevOps:** Git, GitHub, PyPI (publishing packages), Linux, Nginx, Gunicorn
+*   **Architecture:** REST APIs, MVC, Client-Server Architecture
 
-My sponsor: [SMART LEGION LAB](https://github.com/smartlegionlab/).
+---
 
-***
+### 💼 Notable Projects
 
-![Images](https://github.com/saneksking/saneksking/raw/master/data/images/klava.gif)
+*   **Social Network Development:** Contributed to the development of a feature-rich social network platform using Django.
+*   **Educational Platform:** Engineered a custom e-learning platform from scratch to facilitate online courses and student management.
+*   **Open-Source Tools:** Published several utility packages on **PyPI** to help other developers solve common problems.
+*   **Console Applications:** Developed a variety of CLI tools to automate tasks and improve workflow efficiency.
 
-***
+---
 
-[![Saneks King](https://img.shields.io/badge/Github-@saneksking-blue)](https://github.com/saneksking)
-[![Saneks King](https://img.shields.io/badge/Site-https://saneksking.github.io-blue)](https://saneksking.github.io)
+### 📫 Connect with Me
 
-<hr>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-https://saneksking.github.io-blue?style=for-the-badge&logo=google-chrome)](https://saneksking.github.io)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-@saneksking-black?style=for-the-badge&logo=github)](https://github.com/saneksking)
 
-<img src='data/images/github-snake.svg' alt='Github-snake'>
+---
+
+### 🔭 Currently Sponsored by
+
+[![SMART LEGION LAB](https://img.shields.io/badge/SMART_LEGION_LAB-Sponsor-ea4aaa?style=for-the-badge&logo=github)](https://github.com/smartlegionlab)
+
+---
+
+<img src='https://github.com/saneksking/saneksking/raw/master/data/images/github-snake.svg' alt='GitHub Contribution Snake Game' width="100%">
