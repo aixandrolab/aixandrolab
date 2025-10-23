@@ -26,8 +26,8 @@ I specialize in building robust and scalable web applications from the ground up
 
 ### 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-https://saneksking.github.io-blue?style=for-the-badge&logo=google-chrome)](https://saneksking.github.io)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-@saneksking-black?style=for-the-badge&logo=github)](https://github.com/saneksking)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-https://aixandrolab.github.io-blue?style=for-the-badge&logo=google-chrome)](https://aixandrolab.github.io)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-@aixandrolab-black?style=for-the-badge&logo=github)](https://github.com/aixandrolab)
 
 ---
 
@@ -37,4 +37,4 @@ I specialize in building robust and scalable web applications from the ground up
 
 ---
 
-<img src='https://github.com/saneksking/saneksking/raw/master/data/images/github-snake.svg' alt='GitHub Contribution Snake Game' width="100%">
+<img src='https://github.com/aixandrolab/aixandrolab/raw/master/data/images/github-snake.svg' alt='GitHub Contribution Snake Game' width="100%">
