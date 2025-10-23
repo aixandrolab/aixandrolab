@@ -26,7 +26,7 @@ I specialize in building robust and scalable web applications from the ground up
 
 ### 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-https://aixandrolab.github.io-blue?style=for-the-badge&logo=google-chrome)](https://aixandrolab.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-https://aixandrolab.ru-blue?style=for-the-badge&logo=google-chrome)](https://aixandrolab.ru)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-@aixandrolab-black?style=for-the-badge&logo=github)](https://github.com/aixandrolab)
 
 ---
