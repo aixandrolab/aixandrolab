@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aixandrolab
+# 👋 Hello, I'm Aixandro
 
 **Full-Stack Python/Django Developer**
 
