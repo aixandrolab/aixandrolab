@@ -35,7 +35,7 @@ I build web applications, desktop software (PyQt5), Android apps (Kotlin), and C
 - Clear structure for readability and scalability
 - Complex parts are documented
 
-- ### 🇬🇧 English
+### 🇬🇧 English
 
 - **English:** Technical & conversational (Intermediate+ / B2)
 
