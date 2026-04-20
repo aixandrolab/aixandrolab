@@ -39,6 +39,11 @@ I build web applications, desktop software (PyQt5), Android apps (Kotlin), and C
 
 - **English:** Technical & conversational (Intermediate+ / B2)
 
+### 🐧 Linux & DevOps
+
+- Full working knowledge of Linux — from installation to daily terminal use
+- Applied basic security: SSH key auth, firewall rules (iptables/ufw), user privileges
+- Comfortable with bash, ssh, systemd, cron, and basic server troubleshooting
 ---
 
 ### 📦 Projects
