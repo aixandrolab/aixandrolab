@@ -39,8 +39,7 @@ I build web applications, desktop software (PyQt5), Android apps (Kotlin), and C
 
 ### 📦 Projects
 
-#### 🔹 Smart Bug Tracker
-**[Repository](https://github.com/aixandrolab/smart-bug-tracker)**
+#### 🔹 [Smart Bug Tracker](https://github.com/aixandrolab/smart-bug-tracker)
 
 A PyQt5 desktop application for testers and developers to work together. Testers create bug reports with priorities, statuses, and descriptions. Developers see a unified task queue tied to project versions. Includes role-based access and change control.
 
@@ -48,8 +47,7 @@ A PyQt5 desktop application for testers and developers to work together. Testers
 
 ---
 
-#### 🔹 GitHub Repos Downloader
-**[Repository](https://github.com/aixandrolab/github-repos-downloader)**
+#### 🔹 [GitHub Repos Downloader](https://github.com/aixandrolab/github-repos-downloader)
 
 A CLI tool for full GitHub account backup. Downloads all repositories and gists as ZIP archives with multi-threading and detailed reporting.
 
@@ -58,16 +56,14 @@ A CLI tool for full GitHub account backup. Downloads all repositories and gists 
 
 ---
 
-#### 🔹 Smart Guitar Tuner (Android)
-**[Repository](https://github.com/aixandrolab/smart-guitar-tuner-android)**
+#### 🔹 [Smart Guitar Tuner (Android)](https://github.com/aixandrolab/smart-guitar-tuner-android)
 An Android app for guitar tuning. Currently, in development with Kotlin.
 
 **Tech:** Kotlin, Android SDK
 
 ---
 
-#### 🔹 Smart Social Network
-**[Repository](https://github.com/smartlegionlab/smart-social-network)**
+#### 🔹 [Smart Social Network](https://github.com/smartlegionlab/smart-social-network)
 Contributed to development and testing of a Django-based social network. Worked on database architecture, backend, and frontend.
 
 **Tech:** Python, Django, PostgreSQL, Bootstrap
