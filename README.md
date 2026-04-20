@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Aixandro!
 
-**Full-Stack Python/Django Developer**
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aixandrolab&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/aixandrolab?label=Followers&style=social" alt="GitHub followers" />
@@ -9,6 +7,8 @@
   <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/PyQt5-Desktop-41CD52?logo=qt&logoColor=white" alt="PyQt5" />
 </p>
+
+**Full-Stack Python/Django Developer**
 
 I build web applications, desktop software (PyQt5), Android apps (Kotlin), and CLI tools. I publish projects on PyPI.
 
@@ -34,6 +34,10 @@ I build web applications, desktop software (PyQt5), Android apps (Kotlin), and C
 - DRY and SOLID principles applied
 - Clear structure for readability and scalability
 - Complex parts are documented
+
+- ### 🇬🇧 English
+
+- **English:** Technical & conversational (Intermediate+ / B2)
 
 ---
 
