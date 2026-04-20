@@ -92,10 +92,10 @@ Several publicly available bots — from developer utilities to useful tools for
 
 ### 📄 Research Contributions
 
-- Pointer-Based Security Paradigm
-- Local Data Regeneration Paradigm
-- Deterministic Game Engine Tech Report
-- Position-Candidate-Hypothesis (PCH) Paradigm
+- [Pointer-Based Security Paradigm](https://github.com/smartlegionlab/pointer-based-security-paradigm)
+- [Local Data Regeneration Paradigm](https://github.com/smartlegionlab/local-data-regeneration-paradigm)
+- [Deterministic Game Engine Tech Report](https://github.com/smartlegionlab/deterministic-game-engine-report)
+- [Position-Candidate-Hypothesis (PCH) Paradigm](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm)
 
 ---
 
