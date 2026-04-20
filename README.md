@@ -52,7 +52,6 @@ A PyQt5 desktop application for testers and developers to work together. Testers
 A CLI tool for full GitHub account backup. Downloads all repositories and gists as ZIP archives with multi-threading and detailed reporting.
 
 **Tech:** Python, GitHub API, asyncio  
-**PyPI:** `pip install github-repos-downloader`
 
 ---
 
