@@ -106,6 +106,7 @@ Several publicly available bots — from developer utilities to useful tools for
 ### 📫 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-aixandrolab.ru-blue?style=for-the-badge)](https://aixandrolab.ru)
+[![Email](https://img.shields.io/badge/📧_Email-aixandrolab@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aixandrolab@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-@aixandrolab-black?style=for-the-badge&logo=github)](https://github.com/aixandrolab)
 
 ---
