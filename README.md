@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/github/followers/aixandrolab?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/PyPI-Packages-blue?logo=pypi&logoColor=white" alt="PyPI" />
   <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyQt5-Desktop-41CD52?logo=qt&logoColor=white" alt="PyQt5" />
 </p>
 
