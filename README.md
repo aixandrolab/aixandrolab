@@ -11,7 +11,7 @@
 
 **Full‑Stack Python/Django Developer**  
 I build web apps, desktop software (PyQt5), Android apps (Kotlin), CLI tools, and Telegram bots.  
-Publishing on PyPI. **7+ years of Open‑Source contribution** — clean, production‑ready code.
+Publishing on PyPI. **5+ years of Open‑Source contribution** — clean, production‑ready code.
 
 ---
 
