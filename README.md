@@ -9,9 +9,18 @@
   <img src="https://img.shields.io/badge/PyQt5-Desktop-41CD52?logo=qt&logoColor=white" alt="PyQt5" />
 </p>
 
-**Full-Stack Python/Django Developer**
+**Full‑Stack Python/Django Developer**  
+I build web apps, desktop software (PyQt5), Android apps (Kotlin), CLI tools, and Telegram bots.  
+Publishing on PyPI. **7+ years of Open‑Source contribution** — clean, production‑ready code.
 
-I build web applications, desktop software (PyQt5), Android apps (Kotlin), and CLI tools. I publish projects on PyPI.
+---
+
+### 🎓 Research Contributions (Co‑authored)
+
+- [Pointer‑Based Security Paradigm](https://github.com/smartlegionlab/pointer-based-security-paradigm)
+- [Local Data Regeneration Paradigm](https://github.com/smartlegionlab/local-data-regeneration-paradigm)
+- [Deterministic Game Engine (Tech Report)](https://github.com/smartlegionlab/deterministic-game-engine-report)
+- [Position‑Candidate‑Hypothesis (PCH) Paradigm](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm)
 
 ---
 
@@ -24,83 +33,61 @@ I build web applications, desktop software (PyQt5), Android apps (Kotlin), and C
 | **Desktop**        | PyQt5                                                     |
 | **Mobile**         | Kotlin (Android)                                          |
 | **Bots**           | aiogram, python-telegram-bot                              |
-| **DevOps & Tools** | Git, GitHub, PyPI, Linux                                  |
-| **Architecture**   | REST API, MVC, Client-Server                              |
+| **DevOps & Tools** | Git, GitHub, PyPI, Linux (advanced)                       |
+| **Architecture**   | REST API, MVC, Client‑Server                              |
+| **Server side**    | Server installation, setup, management from zero         |
+
+---
+
+### 🐧 Linux & Server Management
+
+- Full working knowledge of Linux — installation, daily terminal use, complete system control
+- Applied security: SSH key auth, firewall (iptables/ufw), user privileges
+- Comfortable with `bash`, `ssh`, `systemd`, `cron`, server troubleshooting
+- **Can reinstall, configure, and fully manage Linux systems**
+
+### 🗄️ Server Installation
+
+I install a server from scratch — configure SSH, network, security, deploy applications, and manage it directly. I also automate server tasks using `cron` and `systemctl`.
 
 ---
 
 ### 🧹 Code Quality
 
-- Clean, refactored code
-- DRY and SOLID principles applied
-- Clear structure for readability and scalability
-- Complex parts are documented
+- Clean, refactored code  
+- DRY and SOLID principles  
+- Clear structure for readability and scalability  
+- Complex parts are documented  
 
 ### 🇬🇧 English
 
-- **English:** Technical & conversational (Intermediate+ / B2)
+- Technical & conversational (Intermediate+ / B2)
 
-### 🐧 Linux & DevOps
-
-- Full working knowledge of Linux — from installation to daily terminal use
-- Applied basic security: SSH key auth, firewall rules (iptables/ufw), user privileges
-- Comfortable with bash, ssh, systemd, cron, and basic server troubleshooting
 ---
 
 ### 📦 Projects
 
-#### 🔹 [Smart Bug Tracker](https://github.com/aixandrolab/smart-bug-tracker)
+#### 🔹 [Smart Bug Tracker](https://github.com/aixandrolab/smart-bug-tracker)  
+PyQt5 desktop app for testers & developers. Bug reports with priorities, statuses, roles, and version‑based task queue.
 
-A PyQt5 desktop application for testers and developers to work together. Testers create bug reports with priorities, statuses, and descriptions. Developers see a unified task queue tied to project versions. Includes role-based access and change control.
+#### 🔹 [GitHub Repos Downloader](https://github.com/aixandrolab/github-repos-downloader)  
+CLI tool for full GitHub backup. Downloads all repos + gists as ZIP with multithreading.
 
-**Tech:** Python, PyQt5, SQLite
+#### 🔹 [Smart Guitar Tuner (Android)](https://github.com/aixandrolab/smart-guitar-tuner-android)  
+Kotlin Android app for guitar tuning (in development).
 
----
+#### 🔹 [Smart Social Network](https://github.com/smartlegionlab/smart-social-network)  
+Django‑based social network — database architecture, backend, frontend.
 
-#### 🔹 [GitHub Repos Downloader](https://github.com/aixandrolab/github-repos-downloader)
+#### 🔹 Smart Learning Platform  
+Custom e‑learning platform for courses and student management.
 
-A CLI tool for full GitHub account backup. Downloads all repositories and gists as ZIP archives with multi-threading and detailed reporting.
-
-**Tech:** Python, GitHub API, asyncio  
-
----
-
-#### 🔹 [Smart Guitar Tuner (Android)](https://github.com/aixandrolab/smart-guitar-tuner-android)
-An Android app for guitar tuning. Currently, in development with Kotlin.
-
-**Tech:** Kotlin, Android SDK
+#### 🔹 Telegram Bots  
+Several public bots — from developer utilities to everyday tools.
 
 ---
 
-#### 🔹 [Smart Social Network](https://github.com/smartlegionlab/smart-social-network)
-Contributed to development and testing of a Django-based social network. Worked on database architecture, backend, and frontend.
-
-**Tech:** Python, Django, PostgreSQL, Bootstrap
-
----
-
-#### 🔹 Smart Learning Platform
-A custom e-learning platform for online courses and student management.
-
-**Tech:** Python, Django, SQLite
-
----
-
-#### 🔹 Telegram Bots
-Several publicly available bots — from developer utilities to useful tools for regular users.
-
----
-
-### 📄 Research Contributions
-
-- [Pointer-Based Security Paradigm](https://github.com/smartlegionlab/pointer-based-security-paradigm)
-- [Local Data Regeneration Paradigm](https://github.com/smartlegionlab/local-data-regeneration-paradigm)
-- [Deterministic Game Engine Tech Report](https://github.com/smartlegionlab/deterministic-game-engine-report)
-- [Position-Candidate-Hypothesis (PCH) Paradigm](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm)
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Clean+Code+Lover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast+for+7+Years;Clean+Code+Lover" alt="Typing SVG" />
 
 ---
 
